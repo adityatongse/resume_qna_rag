@@ -140,7 +140,7 @@ See the full [README.md](README.md) for:
 
 ## Demo Video
 
-For a visual walkthrough, see the demo video (coming soon).
+For a visual walkthrough, see the demo video.
 
 ---
 
